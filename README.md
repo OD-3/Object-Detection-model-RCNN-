@@ -62,13 +62,13 @@ iii.	Mask R-CNN<br />
 **-> Training own Dataset:**<br /> <br />
 ->	To train the model on our own dataset we will need to extend two classes:<br /><br />
 i.	Config: This class contains the default configuration. Subclass it and modify the attributes we need to change.<br />
-ii.	Dataset: This class provides a consistent way to work with any dataset. It allows us to use new datasets for training without having to change the code of the model. It also supports loading multiple datasets at the same time, which is useful if the objects we want to detect are not all available in one dataset.<br />
+ii.	Dataset: This class provides a consistent way to work with any dataset. It allows us to use new datasets for training without having to change the code of the model. It also supports loading multiple datasets at the same time, which is useful if the objects we want to detect are not all available in one dataset.<br /><br />
  ![alt text](https://user-images.githubusercontent.com/57354105/152317424-c5a485f6-99b8-4cb7-99af-796573bf7bf8.png)
 
              
 
 # 5.	Use of Trained Dataset:
-After training dataset using model, use trained dataset to detect specified object in non-trained images.
+After training dataset using model, use trained dataset to detect specified object in non-trained images.<br /><br />
 ![alt text](https://user-images.githubusercontent.com/57354105/152317497-8e5cbaf0-4f61-4877-aa23-cce9d2f32cc5.png)
 
  
