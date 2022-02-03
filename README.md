@@ -1,12 +1,9 @@
 # Object Detection (model RCNN)
-The purpose of this project is to detect object in given images. For detecting object first, the dataset is created and then it is trained using RCNN model. After training dataset, the trained dataset is used to detect object in different images.
 
 
-## Project Title:
-### Object Detection and Image Segmentation.
+## Project Title : Object Detection and Image Segmentation.
 
-Project Members:
-Drashti Dobariya, Jahanvi Gajera, Shruti Shekhat
+**Project Members**: Drashti Dobariya, Jahanvi Gajera, Shruti Shekhat
 
 # 1.	Abstract:
 The purpose of this project is to detect object in given images and videos. For detecting object first, the dataset is created and then it is trained using different models. In this we have used RCNN model (Region based Convolution Neural Networks). After training dataset, the trained dataset is used to detect object in different images and videos.
